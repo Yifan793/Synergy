@@ -170,5 +170,15 @@
     "LockDateTime": "2022-11-02T14:50:09.9170413+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:50:54.9124838+08:00",
+    "ModuleType": 15
   }
 ]
