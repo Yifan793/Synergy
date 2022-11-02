@@ -1,0 +1,49 @@
+{
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "AllowRoles": [
+          "FGC_LoginUser"
+        ]
+      }
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "测试服务",
+      "ID": "5351aec37a1e417fb30df70a94d363ff"
+    },
+    {
+      "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+      "TableName": "表1",
+      "ShowConfirm": false,
+      "ConfirmText": "您确定要更新这行记录吗？",
+      "RowsToUpdate": 1,
+      "RowsToUpdateCondition": {
+        "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+        "ColumnBindingInfo": {
+          "TableName": "表1",
+          "ColumnName": "ID",
+          "GUID": "a4747cbd-d9d9-4872-9964-ee2b0fa92196"
+        }
+      },
+      "UpdateBindingValues": [
+        {
+          "BindingInfo": {
+            "TableName": "表1",
+            "ColumnName": "姓名",
+            "GUID": "c8b8487a-feed-4233-9040-e6e90c9cd748"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=测试服务"
+          }
+        }
+      ]
+    }
+  ],
+  "Name": "服务端命令1"
+}

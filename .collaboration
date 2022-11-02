@@ -145,16 +145,7 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T15:01:56.861259+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面2.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "UserControlPage/组件1",
@@ -162,63 +153,27 @@
   },
   {
     "ModuleName": "Table/表1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:50:09.9170413+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
     "ModuleName": "ServerCommand/服务端命令1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:50:54.9124838+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "Image/image-2022-04-06-18-27-07-459.j",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T15:01:56.861259+08:00",
     "ModuleType": 38
   },
   {
     "ModuleName": "image/文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:53:20.5626858+08:00",
     "ModuleType": 37
   },
   {
     "ModuleName": "Image/picture2.jpg",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T15:01:04.1413075+08:00",
     "ModuleType": 38
   },
   {
     "ModuleName": "Image/ServerImportExportExcelCommand.",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T15:01:41.6848366+08:00",
     "ModuleType": 38
   }
 ]
