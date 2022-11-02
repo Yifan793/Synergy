@@ -145,16 +145,7 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T15:16:51.2021305+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面2.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "UserControlPage/组件1",
