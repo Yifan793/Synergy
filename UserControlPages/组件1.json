@@ -1,0 +1,100 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 3,
+    "DefaultSize": 30.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 3,
+    "DefaultSize": 60.0
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.UserControlPage, ServerDesignerCommon",
+    "PropertyDefinitions": [],
+    "CommandDefinitions": [],
+    "PageLoadedCommandList": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//jzHDELwK97tvz5lqmUyEJB0W+U5z/ucS+cZzGElPFKgR2eu8uLRHptK+4hLKzmOWdYSsJyTmgNn/u5dfo9veyghIKsoPn3ooijcREpaM8KfpN0D/qc3wiGjKNf610CW/4dTQZbGpbyyI9q7fdDBtgcK86Ji1Wohn6OoK8ViIVHY/VERLSgwYeMF7pxPwsOZw/3PnWYRxvisueKAvJbCFPyjan93VLjr2SV5Td7rMhrwImikFy2yHdlAnn1p8TS2j/4/gs/OLaAb2aQwGbSaAUYV5i9+kCko4H1ctSbN07YmDn2Jqra4o0B4CQvP3/T+AKZZrMIcTtxmCA6zu/YezOsw9VIxUMg6Iohe58piVR1TFB+VGrlG8Gmwd6e+h5HV4O7JWzK0MLKWShkqR8bHIPuoOTZOE4l4IU7JPyTuChkOLf23wTnAWSL6uQO8tJFTSEFCUdWR/ndXjhUySOMpEHzQ+m2uJFGDWh16twhdZ3ABAW5NuqGBCaJ/FMrm9FNa8sZMmJtLhjA1qPZK/c9fK4OK0cGjw7sLcEWh+EHyMNZhwfGJHmit3yDyFwA7P5uWVpwIu7/HCqEsyayDMy4PgNTQ1j/onI4Zb+31z+1YiTPf21UETlI+uuCgiNBRHvItb1hPWaMa2vd8WLeuu+TacgsOZGNGLdnV7hAJZse5506r2ehW+TSWiia9K+rtLd7WGguqrA3cC7s/JP2zyuXNvg8muKAFwtVo33mZ+rv39NRQB9wdAxh7cCwoUqASmgdlARYOBRl1cr7PKAlVcR9vBdeqVTaJ1OMtmOKsGeJrYyFEE+n7TKxWlPhaZ+fBtk6UajDS8zXwVnt/qL4W5CtPbLRUMqKHOi1u2E5tBrEaNnDQMqvisDy8rGKZnKyIdy+YuMgjfnoOFztkiTHxAOtYxKg==|920
