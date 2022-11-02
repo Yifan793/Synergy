@@ -146,5 +146,15 @@
   {
     "ModuleName": "PCPage/页面2",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "UserControlPage/组件1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:46:31.9611888+08:00",
+    "ModuleType": 31
   }
 ]
