@@ -159,5 +159,16 @@
   {
     "ModuleName": "UserControlPage/组件1",
     "ModuleType": 31
+  },
+  {
+    "ModuleName": "Table/表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:50:09.9170413+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
