@@ -200,5 +200,15 @@
     },
     "LockDateTime": "2022-11-02T14:53:20.5626858+08:00",
     "ModuleType": 37
+  },
+  {
+    "ModuleName": "Image/picture2.jpeg",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:54:11.5212366+08:00",
+    "ModuleType": 38
   }
 ]
