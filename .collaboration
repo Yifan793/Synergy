@@ -180,5 +180,15 @@
     },
     "LockDateTime": "2022-11-02T14:50:54.9124838+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "Image/image-2022-04-06-18-27-07-459.png",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:53:06.9327122+08:00",
+    "ModuleType": 38
   }
 ]
