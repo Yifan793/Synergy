@@ -131,15 +131,42 @@
   },
   {
     "ModuleName": "image/内置图片",
-    "ModuleType": 37
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:13:26.8099024+08:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\内置图片"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:13:26.808905+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_dark.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_light.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:13:26.808905+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_light.png"
+    ]
   },
   {
     "ModuleName": "UserService",
