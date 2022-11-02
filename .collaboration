@@ -97,29 +97,11 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:03:42.3567775+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:06:38.6129617+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\FGC_母版页.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "ApplicationSetting",
@@ -131,42 +113,15 @@
   },
   {
     "ModuleName": "image/内置图片",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:13:26.8099024+08:00",
-    "ModuleType": 37,
-    "ToRemoveFiles": [
-      "image\\内置图片"
-    ]
+    "ModuleType": 37
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:13:26.808905+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\内置图片\\fgc_logo_dark.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "Image/fgc_logo_light.png",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:13:26.808905+08:00",
-    "ModuleType": 38,
-    "ToRemoveFiles": [
-      "image\\内置图片\\fgc_logo_light.png"
-    ]
+    "ModuleType": 38
   },
   {
     "ModuleName": "UserService",
@@ -190,15 +145,6 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ShaySong",
-      "Email": "1146602243@qq.com"
-    },
-    "LockDateTime": "2022-11-02T14:04:02.87288+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面2.json"
-    ]
+    "ModuleType": 1
   }
 ]
