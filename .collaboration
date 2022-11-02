@@ -110,7 +110,16 @@
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ShaySong",
+      "Email": "1146602243@qq.com"
+    },
+    "LockDateTime": "2022-11-02T14:06:38.6129617+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\FGC_母版页.json"
+    ]
   },
   {
     "ModuleName": "ApplicationSetting",
